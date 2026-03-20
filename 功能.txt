@@ -1,0 +1,15 @@
+cuda_12.8.1_572.61_windows.exe和cudnn_9.11.0_windows.exe和5060ti16g的显卡2.7.1+cu128
+
+
+删除指定目录下包含关键字的文件.py  "C:\Users\Administrator\PerfectDou"
+bilbil下载代码.py             #打开修改网址
+clean_non_mp4.py  "C:\Users\Administrator\PerfectDou"
+翻译视频121.py            #修改21，22行             目录model
+反推图片提示词.py             #修改35行             目录aaglm4v和glm-4v-9b
+翻译音频.py --input "C:\Users\Administrator\PerfectDou\audio.mp3"  #目录model
+
+
+
+new_glm4v_env\Scripts\activate
+python -m ensurepip --upgrade
+
